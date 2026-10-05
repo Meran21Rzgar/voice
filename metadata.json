@@ -1,0 +1,6 @@
+{
+  "name": "Free Voice & Text-to-Speech Explorer",
+  "description": "Discover and test the best free Text-to-Speech APIs including Kurdish male and female voices (Sorani & Kurmanji), Web Speech API, ElevenLabs, and Google Gemini TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
